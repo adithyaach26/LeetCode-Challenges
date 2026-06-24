@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
