@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
