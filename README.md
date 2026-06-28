@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0142-linked-list-cycle-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
