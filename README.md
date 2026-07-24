@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
