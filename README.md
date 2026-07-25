@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,8 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0050-powx-n) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
