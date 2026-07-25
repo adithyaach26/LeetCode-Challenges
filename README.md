@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0050-powx-n) |
+| [3536-maximum-product-of-two-digits](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0242-valid-anagram) |
+| [3536-maximum-product-of-two-digits](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
 | ------- |
