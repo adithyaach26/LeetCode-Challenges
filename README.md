@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0050-powx-n) |
+| [0263-ugly-number](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0263-ugly-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
