@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0739-daily-temperatures) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0739-daily-temperatures) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
