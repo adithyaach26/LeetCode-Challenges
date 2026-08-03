@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0263-ugly-number) |
+| [0877-stone-game](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -177,4 +179,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0101-symmetric-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
