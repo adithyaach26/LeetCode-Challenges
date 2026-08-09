@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0543-diameter-of-binary-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
