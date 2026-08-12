@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0485-max-consecutive-ones) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0055-jump-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/1510-stone-game-iv) |
 ## Minimax
