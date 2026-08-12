@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/1510-stone-game-iv) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
