@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0724-find-pivot-index) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0344-reverse-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
