@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0560-subarray-sum-equals-k) |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/1510-stone-game-iv) |
 | [3536-maximum-product-of-two-digits](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/3536-maximum-product-of-two-digits) |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
@@ -112,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/adithyaach26/LeetCode-Challenges/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
